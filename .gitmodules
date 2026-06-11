@@ -1,0 +1,9 @@
+[submodule "obsidian"]
+	path = obsidian
+	url = https://github.com/h4ni0/obsidian-web.git
+[submodule "OS"]
+	path = OS
+	url = https://github.com/h4ni0/OS.git
+[submodule "video-editor"]
+	path = video-editor
+	url = https://github.com/h4ni0/video-editor.git
